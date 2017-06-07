@@ -12,7 +12,7 @@ soundディレクトリの中に音声ファイルを入れて使ってくださ
 ![](https://github.com/inooooo/extended_minesweeper/blob/master/screenshot.png)
 
 # Demo
-[デモ動画](https://www.youtube.com/watch?v=_BtRTMOd8mg)
+[デモ動画](https://youtu.be/zBZa2MwAD8o)
 
 ## デモ内で使用した音源一覧
 * ポケットサウンド （http://pocket-se.info/）
