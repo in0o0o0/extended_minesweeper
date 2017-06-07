@@ -1,4 +1,4 @@
-# minesweeper
+# extended minesweeper
 パワポケのドキドキ地雷パニックというゲームを改良したゲームです
 マインスイーパーに似ています
 
