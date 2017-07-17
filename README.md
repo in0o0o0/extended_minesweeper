@@ -14,6 +14,9 @@ soundディレクトリの中に音声ファイルを入れて使ってくださ
 # Demo
 [デモ動画](https://youtu.be/zBZa2MwAD8o)
 
+# play game
+[click here](http://13.113.95.51/)
+
 ## デモ内で使用した音源一覧
 * ポケットサウンド （http://pocket-se.info/）
 * 効果音ラボ （http://soundeffect-lab.info/）
