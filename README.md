@@ -15,7 +15,7 @@ soundディレクトリの中に音声ファイルを入れて使ってくださ
 [デモ動画](https://youtu.be/zBZa2MwAD8o)
 
 # play game
-[click here](ec2-13-113-95-51.ap-northeast-1.compute.amazonaws.com)
+[click here](http://ec2-13-113-95-51.ap-northeast-1.compute.amazonaws.com)
 
 ## デモ内で使用した音源一覧
 * ポケットサウンド （http://pocket-se.info/）
