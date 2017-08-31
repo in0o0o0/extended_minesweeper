@@ -2,6 +2,8 @@
 パワポケのドキドキ地雷パニックというゲームを改良したゲームです
 マインスイーパーに似ています
 
+![](https://github.com/inooooo/extended_minesweeper/blob/master/demo.gif)
+
 音源ファイルは配布できないのでscript.jsを実行しても音はでません
 (音に関わる部分をコメントアウトしています)
 
@@ -9,10 +11,8 @@
 音を利用するscript2.js（script.jsのコメントアウトを外したもの）も配布しています．
 soundディレクトリの中に音声ファイルを入れて使ってください.
 
-![](https://github.com/inooooo/extended_minesweeper/blob/master/demo.gif)
-
 # Demo
-[デモ動画](https://youtu.be/zBZa2MwAD8o)
+[ルール説明動画](https://youtu.be/zBZa2MwAD8o)
 
 # play game
 [click here](http://ec2-13-113-95-51.ap-northeast-1.compute.amazonaws.com)
