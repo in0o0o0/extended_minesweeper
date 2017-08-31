@@ -9,7 +9,7 @@
 音を利用するscript2.js（script.jsのコメントアウトを外したもの）も配布しています．
 soundディレクトリの中に音声ファイルを入れて使ってください.
 
-![](https://github.com/inooooo/extended_minesweeper/blob/master/screenshot.png)
+![](https://github.com/inooooo/extended_minesweeper/blob/master/demo.gif)
 
 # Demo
 [デモ動画](https://youtu.be/zBZa2MwAD8o)
