@@ -5,7 +5,7 @@
 ![](https://github.com/inooooo/extended_minesweeper/blob/master/demo.gif)
 
 # play game
-[click here](http://ec2-13-113-95-51.ap-northeast-1.compute.amazonaws.com)
+[click here](ec2-18-179-112-200.ap-northeast-1.compute.amazonaws.com)
 
 # ルール説明動画
 [click here](https://youtu.be/zBZa2MwAD8o)
